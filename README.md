@@ -7,8 +7,10 @@ Economically Animated is a program for applying animated wallpapers. But with a 
 </a>
 
 ## Download
-You can download economically animated from github releases.
-- [Github](https://github.com/luanderfarias/economically-animated/releases)
+You can download economically animated from github releases, snapcraft or on the website.
+- [Github](https://github.com/luanderfarias/cheep)
+- [Snapcraft](https://www.example.com)
+- [economically-animated](https://www.example.com)
 
 ## Dev Stuff
 
